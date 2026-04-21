@@ -8,9 +8,9 @@
 
 - 🔧 Backend engineer focused on **REST API design**, multi-role auth, and distributed systems patterns
 - 🛠️ Primary stack: **Node.js · TypeScript · Express · PostgreSQL · Redis · Prisma**
-- 🎓 MSc Software Engineering @ Northeastern University (Shenyang) — graduating mid-2026
+- 🎓 MSc Software Engineering @ Northeastern University (China)
 - 🌐 Open to **remote backend engineering roles**
-- 🤖 Secondary interest: Deep Learning & LLM engineering (PyTorch, MONAI)
+- 🤖 Secondary interest: Deep Learning & LLM
 
 ---
 
