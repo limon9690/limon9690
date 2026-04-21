@@ -74,4 +74,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iqbal-hossain-limon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Limon.hossain26@yahoo.com)
-[![API Docs](https://img.shields.io/badge/Live%20API%20Docs-00C896?style=for-the-badge)](https://hire-and-fix-backend.vercel.app/docs/)
